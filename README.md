@@ -6,5 +6,3 @@ DRIVE NARA 프로젝트는 MAIN, SHOP, SOCIAL 총 세분류로 나뉘어져 있�
 
 감사합니다.
 
-
-https://dudurim.github.io/DRIVE_SHOP/
